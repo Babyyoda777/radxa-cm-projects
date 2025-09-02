@@ -9,4 +9,4 @@ Send a new PR to this repository on GitHub, append your application table(sort P
 ## CM5 projects list:
 
 | Project Name        | CM5 Model     | Hardware(Carrier Board)                                      | Software                                                | Notes                                                        |
-| ------------------- | ------------- | ------------------------------------------------------------ | ------------------------------------------------------- | ------------------------------------------------------------ |
+| Argo | CM5 16GB RAM 128GB | Custom design Raspi CM5 carrier | Armbian/Ubuntu/Android | Requesting CM5 for testing my PCB with after many people requested whether or not it would work with it |
